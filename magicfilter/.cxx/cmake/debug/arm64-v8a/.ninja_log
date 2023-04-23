@@ -1,0 +1,6 @@
+# ninja log v5
+91	374	703934841	CMakeFiles/MagicJni.dir/src/main/cpp/bitmap/Conversion.cpp.o	7526a155eb03e14a
+1	379	703934841	CMakeFiles/MagicJni.dir/src/main/cpp/bitmap/BitmapOperation.cpp.o	947a7f899bae1697
+49	415	703934841	CMakeFiles/MagicJni.dir/src/main/cpp/beautify/MagicBeautify.cpp.o	42135280ab1a1e3c
+160	415	703934841	CMakeFiles/MagicJni.dir/src/main/cpp/MagicJni.cpp.o	2859d27bd348770d
+415	634	703934841	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libMagicJni.so	e912413ff0bbca55

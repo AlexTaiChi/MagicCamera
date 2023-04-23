@@ -1,0 +1,6 @@
+ninja: Entering directory `D:\350\magic-camera\magicfilter\.cxx\cmake\debug\arm64-v8a'
+[1/5] Building CXX object CMakeFiles/MagicJni.dir/src/main/cpp/bitmap/Conversion.cpp.o
+[2/5] Building CXX object CMakeFiles/MagicJni.dir/src/main/cpp/bitmap/BitmapOperation.cpp.o
+[3/5] Building CXX object CMakeFiles/MagicJni.dir/src/main/cpp/beautify/MagicBeautify.cpp.o
+[4/5] Building CXX object CMakeFiles/MagicJni.dir/src/main/cpp/MagicJni.cpp.o
+[5/5] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libMagicJni.so

@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\350\\magic-camera\\magicfilter\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Windows\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Windows\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "MagicJni-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Windows\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\x86",
+        "MagicJni"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "MagicJni",
+      "output": "D:\\350\\magic-camera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj\\x86\\libMagicJni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

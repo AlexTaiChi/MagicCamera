@@ -1,0 +1,3 @@
+D:/350/magic-camera/magicfilter/.cxx/cmake/debug/x86/CMakeFiles/MagicJni.dir
+D:/350/magic-camera/magicfilter/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/350/magic-camera/magicfilter/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
