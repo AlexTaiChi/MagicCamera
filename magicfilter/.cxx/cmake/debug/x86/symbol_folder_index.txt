@@ -1,1 +1,1 @@
-D:\350\magic-camera\magicfilter\build\intermediates\cmake\debug\obj\x86
+D:\350\MagicCamera\magicfilter\build\intermediates\cmake\debug\obj\x86

@@ -6,12 +6,12 @@
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a",
-  "cxxBuildFolder": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a",
+  "originalCxxBuildFolder": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a",
+  "cxxBuildFolder": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a",
   "abiPlatformVersion": 16,
   "cmake": {
-    "cmakeWrappingBaseFolder": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cxx\\debug\\arm64-v8a",
-    "cmakeArtifactsBaseFolder": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a",
+    "cmakeWrappingBaseFolder": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cxx\\debug\\arm64-v8a",
+    "cmakeArtifactsBaseFolder": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -19,13 +19,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a",
+      "buildRoot": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a",
       "cmakeToolchain": "C:\\Users\\Windows\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
       "cmakeExecutable": "C:\\Users\\Windows\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
       "variables": [
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab"
+          "value": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -61,11 +61,11 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "D:\\350\\magic-camera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a"
+          "value": "D:\\350\\MagicCamera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a"
         },
         {
           "name": "CMAKE_RUNTIME_OUTPUT_DIRECTORY",
-          "value": "D:\\350\\magic-camera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a"
+          "value": "D:\\350\\MagicCamera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -81,7 +81,7 @@
         }
       ]
     },
-    "cmakeServerLogFile": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a\\cmake_server_log.txt"
+    "cmakeServerLogFile": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cmake\\debug\\arm64-v8a\\cmake_server_log.txt"
   },
   "variant": {
     "buildSystemArgumentList": [],
@@ -90,8 +90,8 @@
       ""
     ],
     "variantName": "debug",
-    "objFolder": "D:\\350\\magic-camera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj",
-    "soFolder": "D:\\350\\magic-camera\\magicfilter\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\350\\MagicCamera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj",
+    "soFolder": "D:\\350\\MagicCamera\\magicfilter\\build\\intermediates\\cmake\\debug\\lib",
     "isDebuggableEnabled": true,
     "validAbiList": [
       "ARM64_V8A"
@@ -100,13 +100,13 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "D:\\350\\magic-camera\\magicfilter\\.cxx",
+      "cxxFolder": "D:\\350\\MagicCamera\\magicfilter\\.cxx",
       "splitsAbiFilterSet": [],
-      "intermediatesFolder": "D:\\350\\magic-camera\\magicfilter\\build\\intermediates",
+      "intermediatesFolder": "D:\\350\\MagicCamera\\magicfilter\\build\\intermediates",
       "gradleModulePathName": ":magicfilter",
-      "moduleRootFolder": "D:\\350\\magic-camera\\magicfilter",
-      "moduleBuildFile": "D:\\350\\magic-camera\\magicfilter\\build.gradle",
-      "makeFile": "D:\\350\\magic-camera\\magicfilter\\CMakeLists.txt",
+      "moduleRootFolder": "D:\\350\\MagicCamera\\magicfilter",
+      "moduleBuildFile": "D:\\350\\MagicCamera\\magicfilter\\build.gradle",
+      "makeFile": "D:\\350\\MagicCamera\\magicfilter\\CMakeLists.txt",
       "buildSystem": "CMAKE",
       "ndkFolder": "C:\\Users\\Windows\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529",
       "ndkVersion": "21.4.7075529",
@@ -192,9 +192,9 @@
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "D:\\350\\magic-camera",
-        "cxxFolder": "D:\\350\\magic-camera\\.cxx",
-        "compilerSettingsCacheFolder": "D:\\350\\magic-camera\\.cxx",
+        "rootBuildGradleFolder": "D:\\350\\MagicCamera",
+        "cxxFolder": "D:\\350\\MagicCamera\\.cxx",
+        "compilerSettingsCacheFolder": "D:\\350\\MagicCamera\\.cxx",
         "sdkFolder": "C:\\Users\\Windows\\AppData\\Local\\Android\\Sdk",
         "isNativeCompilerSettingsCacheEnabled": false,
         "isBuildOnlyTargetAbiEnabled": true,
@@ -205,10 +205,10 @@
       },
       "nativeBuildOutputLevel": "QUIET"
     },
-    "prefabDirectory": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\prefab"
+    "prefabDirectory": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cmake\\debug\\prefab"
   },
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "D:\\350\\magic-camera\\magicfilter\\.cxx\\cmake\\debug\\prefab\\arm64-v8a"
+  "prefabFolder": "D:\\350\\MagicCamera\\magicfilter\\.cxx\\cmake\\debug\\prefab\\arm64-v8a"
 }

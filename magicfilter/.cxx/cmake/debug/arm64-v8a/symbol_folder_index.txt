@@ -1,1 +1,1 @@
-D:\350\magic-camera\magicfilter\build\intermediates\cmake\debug\obj\arm64-v8a
+D:\350\MagicCamera\magicfilter\build\intermediates\cmake\debug\obj\arm64-v8a

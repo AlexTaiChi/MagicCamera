@@ -1,7 +1,7 @@
                     Executable : C:\Users\Windows\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
 arguments : 
--HD:\350\magic-camera\magicfilter
--DCMAKE_FIND_ROOT_PATH=D:\350\magic-camera\magicfilter\.cxx\cmake\debug\prefab\arm64-v8a\prefab
+-HD:\350\MagicCamera\magicfilter
+-DCMAKE_FIND_ROOT_PATH=D:\350\MagicCamera\magicfilter\.cxx\cmake\debug\prefab\arm64-v8a\prefab
 -DCMAKE_BUILD_TYPE=Debug
 -DCMAKE_TOOLCHAIN_FILE=C:\Users\Windows\AppData\Local\Android\Sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
 -DANDROID_ABI=arm64-v8a
@@ -10,12 +10,12 @@ arguments :
 -DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
 -DCMAKE_ANDROID_NDK=C:\Users\Windows\AppData\Local\Android\Sdk\ndk\21.4.7075529
 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\350\magic-camera\magicfilter\build\intermediates\cmake\debug\obj\arm64-v8a
--DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\350\magic-camera\magicfilter\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\350\MagicCamera\magicfilter\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\350\MagicCamera\magicfilter\build\intermediates\cmake\debug\obj\arm64-v8a
 -DCMAKE_MAKE_PROGRAM=C:\Users\Windows\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
 -DCMAKE_SYSTEM_NAME=Android
 -DCMAKE_SYSTEM_VERSION=16
--BD:\350\magic-camera\magicfilter\.cxx\cmake\debug\arm64-v8a
+-BD:\350\MagicCamera\magicfilter\.cxx\cmake\debug\arm64-v8a
 -GNinja
 jvmArgs : 
 
